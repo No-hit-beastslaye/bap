@@ -1,4 +1,5 @@
-bap
+BAP
+
 Bap opdrachten:
 
 BAP opdracht 3: PhP variabelen en Else If statement.
