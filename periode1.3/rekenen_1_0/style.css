@@ -1,0 +1,20 @@
+body
+{
+  background-color: aliceblue;
+  text-align: center;
+  font-style: sans-serif;
+}
+
+.wrapper
+{
+  width: 800px;
+  background-color: purple;
+  border: red inset 5px;
+  border-radius: 100px;
+  margin: auto;
+}
+
+#Assignment
+{
+  font-size: 50px;
+}
